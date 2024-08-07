@@ -3,8 +3,8 @@ This Python script implements a simple command-line version of the popular casin
 
 Key Features:
 
-Simulates the game of Blackjack, a classic card game commonly played in casinos.
-Allows players to place bets and make decisions during their turn.
-Implements a basic strategy for the computer dealer, automating its gameplay.
-Tracks the player's money balance and handles bets accordingly.
-Provides an option for players to play again after completing a round.
+Simulates the game of Blackjack
+Allows players to place bets 
+Implements a basic strategy for the computer dealer
+Tracks the player's money balance 
+Provides an option for players to play again 
